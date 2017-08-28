@@ -2,8 +2,8 @@ import React from 'react';
 
 class HelloWorld extends React.Component {
     render() {
-        return ( <
-            p > Hello World, < span className = 'label label-primary' > teste < /span></p >
+        return ( 
+        <p> Hello World, <span className = 'label label-primary'> teste </span></p >
         );
     }
 }

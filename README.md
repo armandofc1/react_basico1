@@ -1,2 +1,3 @@
 # react_basico1
-Basico sobre REact
+Basico sobre React
+Com controle de versão.
